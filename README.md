@@ -1,2 +1,2 @@
-# Solidify
+# Pyromancy
 A projectkorra ability
