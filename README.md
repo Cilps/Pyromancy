@@ -1,2 +1,2 @@
 # Pyromancy
-A projectkorra ability
+A Minecraft Projectkorra ability coded with Java.
